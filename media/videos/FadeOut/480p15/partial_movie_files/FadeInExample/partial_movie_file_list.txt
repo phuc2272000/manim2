@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/stable diffusion/manim2/media/videos/FadeOut/480p15/partial_movie_files/FadeInExample/4266129954_2210321422_4005406233.mp4'
