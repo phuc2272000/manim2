@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/stable diffusion/manim2/media/videos/ArcBetweenPoints/480p15/partial_movie_files/ArcBetweenPointsExample/4266129954_1523874897_4067289332.mp4'
